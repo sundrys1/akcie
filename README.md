@@ -1,0 +1,2 @@
+# akcie
+akcie scripty
